@@ -7,9 +7,9 @@
 
 <p align="left"> <a href="https://twitter.com/@matute09" target="blank"><img src="https://img.shields.io/twitter/follow/@matute09?logo=twitter&style=for-the-badge" alt="@matute09" /></a> </p>
 
-- 🔭 I’m currently working on **_printf, which produces formatted output according to the given format string.**
+- 🔭 I’m currently working on **a recreation of AirBnB**
 
-- 🌱 I’m currently learning **C at Holberton**
+- 🌱 I’m currently learning **Python at Holberton**
 
 - 👯 I’m looking to collaborate on **gaming projects**
 
