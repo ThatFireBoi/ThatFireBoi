@@ -7,15 +7,15 @@
 
 <p align="left"> <a href="https://twitter.com/@matute09" target="blank"><img src="https://img.shields.io/twitter/follow/@matute09?logo=twitter&style=for-the-badge" alt="@matute09" /></a> </p>
 
-- 🔭 I’m currently working on **a recreation of AirBnB**
+- 🔭 I’m currently working on **Spendy, a financial analyzer**
 
 - 🌱 I’m currently learning **Python at Holberton**
 
-- 👯 I’m looking to collaborate on **gaming projects**
+- 👯 I’m looking to collaborate on **gaming projects/website development**
 
 - 🤝 I’m looking for help with **game design projects**
 
-- 📫 How to reach me **gcf2007@hotmail.com**
+- 📫 How to reach me **gcf2007@hotmail.com, gabriel.castro@holbertonstudents.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
