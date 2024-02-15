@@ -4,6 +4,7 @@
 # 💫 About Me:
 🔭 I’m currently working on Spendy, a financial analyzer<br>👯 I’m looking to collaborate on gaming projects/website development<br>🤝 I’m looking for help with Javascript<br>🌱 I’m currently learning Python<br>💬 Ask me about game design<br>⚡ Fun fact: I studied Game Development for 4 years
 
+
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Matute5) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/Matute09) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/gabrielcastroflores) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/thatfireboi) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Matute09) 
 
@@ -22,6 +23,9 @@
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=thatfireboi&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
+
+### 😂 Random Dev Meme
+<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=thatfireboi&icon=5&color=1)](https://visitcount.itsvg.in)
