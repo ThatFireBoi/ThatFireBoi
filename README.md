@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Gabriel Castro Flores</h1>
 <h3 align="center">A passionate software engineer from Puerto Rico</h3>
 
+[![](https://visitcount.itsvg.in/api?id=thatfireboi&icon=5&color=1)](https://visitcount.itsvg.in)
+
 # 💫 About Me:
 🔭 I’m currently working on Spendy, a financial analyzer<br>👯 I’m looking to collaborate on gaming projects/website development<br>🤝 I’m looking for help with Javascript<br>🌱 I’m currently learning Python<br>💬 Ask me about game design<br>⚡ Fun fact: I studied Game Development for 4 years
 
@@ -25,6 +27,5 @@
 ![](https://github-contributor-stats.vercel.app/api?username=thatfireboi&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=thatfireboi&icon=5&color=1)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
